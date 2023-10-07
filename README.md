@@ -20,3 +20,6 @@ If an ouput file path is not provided (i.e., `python imposition.py <input_file_p
 ## Example
 This is a sample of what an imposed PDF would look like.
 ![image](https://user-images.githubusercontent.com/68765813/148579172-58147f7e-b570-4a0d-87cd-dbe9745d3017.png)
+
+## Figma Mockup
+![PDF-imposer](https://github.com/kailinchu/pdf-imposition/assets/68765813/44a926bf-ecdc-479b-9f51-0ce3ed465868)
